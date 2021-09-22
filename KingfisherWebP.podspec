@@ -36,6 +36,6 @@ KingfisherWebP is an extension of the popular library [Kingfisher](https://githu
     'USER_HEADER_SEARCH_PATHS' => '$(inherited) $(SRCROOT)/libwebp/src'
   }
 
-  s.dependency 'Kingfisher', '~> 6.2'
+  s.dependency 'Kingfisher', '~> 7.0.0'
   s.dependency 'libwebp', '>= 1.1.0'
 end
