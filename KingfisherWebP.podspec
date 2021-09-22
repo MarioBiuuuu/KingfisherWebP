@@ -14,8 +14,8 @@ KingfisherWebP is an extension of the popular library [Kingfisher](https://githu
   s.source           = { :git => 'https://github.com/yeatse/KingfisherWebP.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/yeatse'
 
-  s.ios.deployment_target = '10.0'
-  s.tvos.deployment_target = '10.0'
+  s.ios.deployment_target = '14.0'
+  s.tvos.deployment_target = '14.0'
   s.watchos.deployment_target = '3.0'
   s.osx.deployment_target = '10.12'
 
